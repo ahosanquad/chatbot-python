@@ -17,4 +17,4 @@ This is an AI-powered chatbot designed to interact with users and provide helpfu
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/ai-chatbot-project.git
+   git clone https://github.com/ahosanquad/ai-chatbot-project.git
